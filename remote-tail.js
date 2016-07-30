@@ -48,7 +48,4 @@ for (var x = 0, len = servers.length; x < len; x++) {
   });
 }
 
-//IP:- 10.8.60.155
-//Credentials:- ciqt01/ciqt01
-//Log location:- /opt/ciqt01/APPServer/profiles/KWS/logs/server1
-//Unix command to see the log :- tail –f SystemOut.log
+
